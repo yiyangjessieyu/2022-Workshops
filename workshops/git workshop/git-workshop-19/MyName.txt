@@ -1,0 +1,11 @@
+Hey my name is: Yiyang (Jessie) Yu
+This morning I ate: aaa
+
+
+Sami's change
+<<<<<<< HEAD
+change
+
+yiyang change
+=======
+>>>>>>> 80b244aaff3b3d047a4c0de66274d0f6bb13f7f9

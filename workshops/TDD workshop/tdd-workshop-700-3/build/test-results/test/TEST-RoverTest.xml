@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RoverTest" tests="26" skipped="0" failures="0" errors="0" timestamp="2022-03-23T03:45:10" hostname="cs18244kq" time="0.035">
+  <properties/>
+  <testcase name="testTurnLeftFromNorth()" classname="RoverTest" time="0.015"/>
+  <testcase name="testTurnLeftFromSouth()" classname="RoverTest" time="0.0"/>
+  <testcase name="testTurnRightFromNorth()" classname="RoverTest" time="0.0"/>
+  <testcase name="testTurnRightFromSouth()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveBackwardWrapAround()" classname="RoverTest" time="0.001"/>
+  <testcase name="testMoveForwardSouthWithNegativeYPosition()" classname="RoverTest" time="0.001"/>
+  <testcase name="testMoveBackwardNorth()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveBackwardSouth()" classname="RoverTest" time="0.0"/>
+  <testcase name="testLandWithXOutOfBoundsThrowsException()" classname="RoverTest" time="0.001"/>
+  <testcase name="testTurnRightFromEast()" classname="RoverTest" time="0.0"/>
+  <testcase name="testTurnRightFromWest()" classname="RoverTest" time="0.001"/>
+  <testcase name="testMoveForwardEast()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveForwardWest()" classname="RoverTest" time="0.0"/>
+  <testcase name="testScanForRockTrue()" classname="RoverTest" time="0.001"/>
+  <testcase name="testMoveForwardNorthWithYOutOfBounds()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveBackwardEast()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveBackwardWest()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveForwardNorth()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveForwardSouth()" classname="RoverTest" time="0.0"/>
+  <testcase name="testMoveForwardEastWithXOutOfBounds()" classname="RoverTest" time="0.0"/>
+  <testcase name="testLandWithYOutOfBoundsThrowsException()" classname="RoverTest" time="0.0"/>
+  <testcase name="testScanForRockFalse()" classname="RoverTest" time="0.0"/>
+  <testcase name="testLandSuccessful()" classname="RoverTest" time="0.001"/>
+  <testcase name="testTurnLeftFromEast()" classname="RoverTest" time="0.0"/>
+  <testcase name="testTurnLeftFromWest()" classname="RoverTest" time="0.001"/>
+  <testcase name="testMoveForwardWestWithNegativeXPositionThrowsException()" classname="RoverTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
